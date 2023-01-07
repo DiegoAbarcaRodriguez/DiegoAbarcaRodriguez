@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, mi nombre es Diego Abarca Rodríguez</h1>
-<h3 align="center">Practicante de Ingeniería en Sistemas Computacionales, apasionado por el desarrollo web y móvil que aspira a convertirse en un desarrollador de alto nivel.</h3>
+<h3 align="center">Recién egresado de la Ingeniería en Sistemas Computacionales, apasionado por el desarrollo web y móvil que aspira a convertirse en un desarrollador de alto nivel.</h3>
 
 - 🌱 I’m currently learning **ReactJS.**
 
