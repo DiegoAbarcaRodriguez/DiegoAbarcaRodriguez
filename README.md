@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, mi nombre es Diego Abarca Rodríguez</h1>
-<h3 align="center">Recién egresado de la Ingeniería en Sistemas Computacionales, apasionado por el desarrollo web y móvil que aspira a convertirse en un desarrollador de alto nivel.</h3>
+<h3 align="center">Software developer junior con fuerte expertise e  tecnologías Fronted que aspira convertise en un programador de alto nivel.</h3>
 
 - 🌱 I’m currently learning **ReactJS.**
 
-- 💬 Ask me about **PHP, Flutter, JavaScript.**
+- 💬 Ask me about **Angular, NodeJs , JavaScript.**
 
 - 📫 How to reach me **abarcarodriguezdiego@gmail.com**
 
