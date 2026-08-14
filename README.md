@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, mi nombre es Diego Abarca Rodríguez</h1>
-<h3 align="center">Software developer junior con fuerte expertise e  tecnologías Fronted que aspira convertise en un programador de alto nivel.</h3>
+<h3 align="center">Software developer con fuerte expertise e  tecnologías Fronted que aspira convertise en un programador de alto nivel.</h3>
 
-- 🌱 I’m currently learning **ReactJS.**
+- 🌱 I’m currently learning **Java**
 
 - 💬 Ask me about **Angular, NodeJs , JavaScript.**
 
